@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Boodwin, bibliofile, Launches Site"
+title: "Boodwin, Bibliofile, Launches Site"
 date: 2022-01-15
 ---
 
