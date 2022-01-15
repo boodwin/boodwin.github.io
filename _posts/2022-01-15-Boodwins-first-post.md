@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
+title: "Boodwin, bibliofile, Launches Site"
 date: 2022-01-15
 ---
 
